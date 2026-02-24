@@ -3,7 +3,7 @@ class chatbook:
         self.username= ''
         self.password=''
         self.loggedin=False
-        self.menu()
+        # self.menu()
 
 
     def menu(self):

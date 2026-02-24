@@ -10,3 +10,15 @@
     > Code Resuability
     > Debugging
     > Easy to Colab
+
+5. End to End Prjoct (Chatbook Class)
+    > Function Vs Method
+    > Megic or Dunder or Special Method
+    > Self
+    > You can create attribute outside class as well
+
+    > Encapsulation
+    > Getter and Setter
+    > Static Method
+
+    >Inheritance
